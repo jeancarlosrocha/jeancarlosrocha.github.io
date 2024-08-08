@@ -1,7 +1,7 @@
 # Repositório público do Aluno Jean Carlos
 
 Material que estou utlizando para fazer minhas aulas. <br>
-Disponiblizado pelo [Prof. Gustavo Guanabarahttps](https://gustavoguanabara.github.io/)
+Disponiblizado pelo [Prof. Gustavo Guanabara](https://gustavoguanabara.github.io/)
 
 ## Curso de HTML5 e CSS3
 
